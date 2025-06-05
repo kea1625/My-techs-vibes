@@ -74,7 +74,7 @@ body {
     background-color: grey;
     color: white;
     text-align: center;
-    padding: 50px 50px 50px;
+    padding: 150px 50px 100px;
     margin-top: 60px;
 }
 
@@ -193,4 +193,11 @@ body {
 
 .btn-secondary:hover {
     background-color: #cbd5e1;
+}
+
+.footer {
+    background-color: #c2dde8;
+    color: #000;
+    padding: 40px 0;
+    text-align: center;
 }
